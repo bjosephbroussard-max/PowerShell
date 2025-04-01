@@ -17,6 +17,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Windows.Compatibility" Version="10.0.0-preview.2.25163.3" />
     <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+    <PackageReference Include="System.Web.Services.Description" Version="8.1.2" />
   </ItemGroup>
 
 </Project>
