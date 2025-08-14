@@ -1,4 +1,4 @@
-// See https://aka.ms/vscode-remote/devcontainer.json for format details.
+gh pr checkout 25330// See https://aka.ms/vscode-remote/devcontainer.json for format details.
 {
 	"name": ".NET Core 6.0, including pwsh (Ubuntu 18.04)",
 	"dockerFile": "Dockerfile",
